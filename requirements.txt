@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 affinegap==1.10
 alabaster==0.7.12
 anaconda-client==1.7.2
@@ -252,3 +253,12 @@ xlwt==1.3.0
 zict==0.1.3
 zope.index==4.4.0
 zope.interface==4.6.0
+=======
+Flask==1.1.1
+gunicorn==20.0.4
+pandas==0.25.0
+requests==2.22.0
+scikit-learn==0.21.2
+scipy==1.3.1
+numpy==1.18.0
+>>>>>>> b5cf0196b1be1f2898175e4def70dffa39db53df
