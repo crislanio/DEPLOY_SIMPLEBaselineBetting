@@ -19,3 +19,8 @@ POC Kaggle source by CAESAR LUPUM https://www.kaggle.com/caesarlupum/simple-base
 
 Original Source
 link: https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4
+
+
+References: 
+https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
+https://towardsdatascience.com/deploying-a-deep-learning-model-on-heroku-using-flask-and-python-769431335f66
